@@ -1,2 +1,2 @@
 # Curso JAVASCRIPT
-aprendendo o JAVASCRIPT
+Aprendendo a programar com JAVASCRIPT!
